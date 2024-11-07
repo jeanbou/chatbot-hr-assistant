@@ -6,18 +6,20 @@ The standard MS Azure AI Studio based solution, promoted as by default templetiz
 
 * Front-end in *React.JS*
 * Back-end in *Python*
-* The corefunctionality is provided as API by Microsoft Azure.
+* The core functionality is provided as API by Microsoft Azure.
 
 ## How to run it locally
 
 Before cloning the repository, please make sure that you have:
 * at least Python v. 3.11
 * last Node.JS
-well installed on your Win machine, then clone this repository.
 
-Configure using your MS Azure AI Studio:
+both well installed on your Win machine, then clone this repository.
+
+Configure it using your MS Azure AI Studio:
 * ChatGPT models (v. >=3.5)
 * Indexation Azure AI service (I have chosen text-ada02 , but you might use your configure) for your proper Q&A source file using which chatbot should answer on the custom questions
+
 Test them inside Azure AI Studio before doing the next move.
 
 Check & configure *.env* file, pay attention to the following params that you have to set:
