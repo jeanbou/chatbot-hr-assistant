@@ -34,3 +34,6 @@ Actually run *start.cmd*
 
 ## Disclaimer
 More complicated usage that includes COSMOSDB approach is out of scope of this project.
+
+## Credits
+Go to [codeurzebs](https://github.com/codeurzebs/chatbot-azure-openai)
