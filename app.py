@@ -1,4 +1,4 @@
-# This file is part of the project hosted at https://github.com/jeanbou
+# This file is part of the project https://github.com/jeanbou/chatbot-hr-assistant
 #
 # The source code is subject to the terms and conditions defined in the
 # file 'LICENSE.txt', which is part of this source code package.
