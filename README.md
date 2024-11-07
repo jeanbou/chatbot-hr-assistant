@@ -3,9 +3,10 @@
 ## Description
 
 The standard MS Azure AI Studio based solution, promoted as by default templetization by Microsoft.
-Front-end in *React.JS*
-Back-end in *Python*
-The corefunctionality is provided as API by Microsoft Azure.
+
+* Front-end in *React.JS*
+* Back-end in *Python*
+* The corefunctionality is provided as API by Microsoft Azure.
 
 ## How to run it locally
 
